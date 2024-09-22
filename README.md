@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://www.svgrepo.com/show/448236/linux.svg" width="52" height="40" alt="linux logo"  />
   <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="52" height="40" alt="vscode logo"  />
-	<img src="https://www.svgrepo.com/show/353782/git-icon.svg" width="52" height="40" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" width="52" height="40" alt="git logo"  />
   <img src="https://www.svgrepo.com/show/354238/python.svg" width="52" height="40" alt="python logo"  />
   <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" width="52" height="40" alt="cplusplus logo"  />
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="52" height="40" alt="html5 logo"  />
@@ -39,10 +39,10 @@
 <br>
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://www.svgrepo.com/show/452057/mail.svg" width="52" height="40" alt="mail logo"  />
-	<img src="https://www.svgrepo.com/show/349554/vk.svg" width="52" height="40" alt="vk logo"  />
+  <a href="https://t.me/dyrhyrv"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="52" height="40" alt="telegram logo"  /></a>
+  <a href="https://discordapp.com/users/893440111138717699"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="mailto:dyrhyrv@ya.ru"><img src="https://www.svgrepo.com/show/452057/mail.svg" width="52" height="40" alt="mail logo"  /></a>
+  <a href="https://vk.com/dyrhyrv"><img src="https://www.svgrepo.com/show/349554/vk.svg" width="52" height="40" alt="vk logo"  /></a>
 </div>
 
 ---
